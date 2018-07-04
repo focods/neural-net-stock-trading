@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# yaml files
+*.yaml
+
+# and links to yaml files
+*.yaml.lnk
